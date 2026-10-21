@@ -1,0 +1,24 @@
+name: Link partido
+description: Um link de um vídeo não abre ou leva ao sítio errado.
+title: "Link partido: "
+labels: [link-partido]
+body:
+  - type: input
+    id: video
+    attributes:
+      label: Que vídeo?
+      placeholder: "ex.: Umbrel 2.0"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Que link?
+      placeholder: "https://services.gguerreiro232.com/go/..."
+    validations:
+      required: true
+  - type: textarea
+    id: o-que-acontece
+    attributes:
+      label: O que acontece?
+      placeholder: "ex.: dá erro 404, abre outra página..."

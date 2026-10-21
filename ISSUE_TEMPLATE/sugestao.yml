@@ -1,0 +1,12 @@
+name: Sugestão
+description: Uma ideia de vídeo, de projeto para mostrar ou de melhoria.
+title: "Sugestão: "
+labels: [sugestao]
+body:
+  - type: textarea
+    id: ideia
+    attributes:
+      label: A ideia
+      description: O que gostavas de ver e porquê. Se for um projeto, deixa o link.
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Todos os links dos vídeos
+    url: https://services.gguerreiro232.com/go/
+    about: Antes de perguntar, vê se o link está aqui.
+  - name: Apoio a compras da KCU Services
+    url: https://services.gguerreiro232.com/reembolsos.html
+    about: Compras, downloads e reembolsos tratam-se por email, não aqui.
+  - name: Falha de segurança
+    url: https://github.com/KCUuLAB/.github/blob/main/SECURITY.md
+    about: Não abras um aviso público; segue estas instruções.
