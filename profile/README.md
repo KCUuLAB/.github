@@ -1,15 +1,15 @@
-# KCUuLab 🧪
+# KCUuLAB 🧪
 
-**Building · Running · Breaking · Fixing**
+**KCUuLAB | IA & Motion**
 
-Homelab, servidores, IA e automação explicados em vídeos curtos, em português.
+Vídeos animados feitos com IA e código, automação e homelab, em português.
 
 ## Onde estamos
 - 📺 YouTube: [@KCUuLab](https://www.youtube.com/@KCUuLab)
 - 📸 Instagram: [@kcuu.lab](https://www.instagram.com/kcuu.lab)
 - 🎵 TikTok: [@kcuulab](https://www.tiktok.com/@kcuulab)
 - 🌐 Site: [lab.gguerreiro232.com](https://lab.gguerreiro232.com/)
-- 🔗 Todos os links dos vídeos: [services.gguerreiro232.com/go](https://services.gguerreiro232.com/go/)
+- 🔗 Links dos vídeos: no site, em [lab.gguerreiro232.com](https://lab.gguerreiro232.com/) → «Links dos vídeos»
 
 ## Repositórios
 - [kcuulab](https://github.com/KCUuLAB/kcuulab): os links e o material de cada vídeo, numa tabela que se atualiza sozinha todos os dias.
