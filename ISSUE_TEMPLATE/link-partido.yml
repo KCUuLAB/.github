@@ -14,7 +14,7 @@ body:
     id: link
     attributes:
       label: Que link?
-      placeholder: "https://services.gguerreiro232.com/go/..."
+      placeholder: "https://lab.gguerreiro232.com/go/..."
     validations:
       required: true
   - type: textarea
